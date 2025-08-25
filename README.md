@@ -1,7 +1,7 @@
 # Hi, I'm Huda Halani 👋  
 
 💻 **Computer Engineering @ University of Toronto**  
-🌎 U.S. Permanent Resident | Open to opportunities in Canada & the U.S.  
+🌎 Canadian Citizen | U.S. Permanent Resident | Open to opportunities in Canada & the U.S.  
 
 ---
 
