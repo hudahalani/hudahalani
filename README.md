@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Computer Engineering student** passionate about building **AI-driven applications**, **FPGA-based systems**, and **automation tools** that solve real-world problems.  
+I’m a **Computer Engineering student** passionate about building AI-driven applications, developing software solutions, and creating automation tools that solve real-world problems.
 
 I love working at the intersection of **software and hardware**, whether it’s training deep learning models in PyTorch, designing digital systems in Verilog, or building scalable web apps with React/Firebase.  
 
